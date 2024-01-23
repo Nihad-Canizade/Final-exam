@@ -1,0 +1,40 @@
+{
+    "boxs": [
+        {
+            "id": 1,
+            "image": "./assets/images/s4-box1-img.jpg",
+            "name": "Tank Top",
+            "description": "Finding perfect t-shirt",
+            "price": 50
+        },
+        {
+            "id": 2,
+            "image": "./assets/images/s4-box2-img.jpg",
+            "name": "Corater",
+            "description": "Finding perfect t-shirt",
+            "price": 30
+        },
+        {
+            "id": 3,
+            "image": "./assets/images/s4-box3-img.jpg",
+            "name": "Polo Shirt",
+            "description": "Finding perfect t-shirt",
+            "price": 40
+        },
+        {
+            "id": 4,
+            "image": "./assets/images/s4-box4-img.jpg",
+            "name": "T-Shirt Mockup",
+            "description": "Finding perfect t-shirt",
+            "price": 20
+        },
+        {
+            "id": 5,
+            "image": "./assets/images/s4-box2-img.jpg",
+            "name": "Corater",
+            "description": "Finding perfect t-shirt",
+            "price": 60
+        }
+    ],
+    "favorites": [ ]
+}
